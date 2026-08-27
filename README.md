@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
