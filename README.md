@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
