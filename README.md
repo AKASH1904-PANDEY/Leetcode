@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -165,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
