@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Geometry
 |  |
 | ------- |
