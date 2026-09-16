@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
