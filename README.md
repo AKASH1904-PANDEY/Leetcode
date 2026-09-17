@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
