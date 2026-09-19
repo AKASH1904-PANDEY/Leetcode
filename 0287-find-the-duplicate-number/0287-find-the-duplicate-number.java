@@ -10,13 +10,15 @@ class Solution {
         }
     }
        return -1;
-     /*  Set<Integer> set = new HashSet<>();
-       for(int ch : nums){
-        set.add(ch);
-       }
-       if(set.contains()>1){
-        return ch;
-       }
-       */
+     //we can  do it with hashset also it is more simple
+    /* Set<Integer>set = new HashSet<>();
+     for(int num : nums){
+        if(set.contains(num)>1){
+            return num;
+        }
+         set.add(num);
+     }
+     return -1;
+     */
     }
 }
