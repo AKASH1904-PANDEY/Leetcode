@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
