@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
