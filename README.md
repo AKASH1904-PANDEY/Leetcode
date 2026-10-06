@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0022-generate-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
