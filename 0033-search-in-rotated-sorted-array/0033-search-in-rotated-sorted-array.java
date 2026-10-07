@@ -15,7 +15,9 @@ class Solution {
             }else{
                 low = mid+1;
             }
-        }else{
+        }
+        // we will check the right half in this 
+        else{
             if(nums[high]>=target && nums[mid]<target){
                 low = mid+1;
             }else{
