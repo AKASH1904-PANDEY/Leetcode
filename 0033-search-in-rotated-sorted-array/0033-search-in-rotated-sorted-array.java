@@ -1,30 +1,25 @@
 class Solution {
     public int search(int[] nums, int target) {
        int n = nums.length;
-       int low =0;
-       int high =n-1;
-       while(low<=high){
-        int mid = low+(high-low)/2;
-        if(nums[mid]==target){
+       int l = 0;
+       int h = n-1;
+       while(l<h){
+        int mid = l+(h-l)/2;
+        if(target==mid){
             return mid;
-        }
-        //we will go to check that  the the left half is sorted or not 
-        if(nums[low]<=nums[mid]){
-            if(nums[low]<=target && nums[mid]>target){
-                high = mid-1;
-            }else{
-                low = mid+1;
-            }
-        }
-        // we will check the right half in this 
+        }else if(target<nums[mid] && nums[mid]>=nums[h]){
+            l =mid+1;
+        }else{
+            h=mid;
+        } 
         else{
-            if(nums[high]>=target && nums[mid]<target){
-                low = mid+1;
+            if(target>nums[mid] && nums[mid]<=nums[h]){
+                l =mid+1;
             }else{
-                high = mid-1;
+                h = mid-1;
             }
         }
        }
-        return -1;
+       return -1;
     } 
 }
