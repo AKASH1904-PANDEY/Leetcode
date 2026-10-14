@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
