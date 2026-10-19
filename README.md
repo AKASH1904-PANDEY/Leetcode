@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0036-valid-sudoku) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
