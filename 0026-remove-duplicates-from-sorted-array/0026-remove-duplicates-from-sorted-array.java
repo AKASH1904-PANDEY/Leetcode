@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
         if(n==0) return 0;
@@ -12,5 +12,18 @@ class Solution {
             }
         }
         return i;
+    }
+}
+*/
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int i=0;
+        for(int j=1;j<nums.length;j++){
+            if(nums[j]!=nums[i]){
+                i++;
+                nums[i]=nums[j];
+            }
+        }
+        return i+1;
     }
 }
