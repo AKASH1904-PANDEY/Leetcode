@@ -13,14 +13,29 @@
  *     }
  * }
  */
-class Solution {
+
+    class Solution {
+
+    TreeNode ans = null;
+
     public TreeNode searchBST(TreeNode root, int val) {
-       if(root==null || root.val==val){
-        return root;
-       }
-       if(val<root.val){
-        return searchBST(root.left,val);
-       }
-       return searchBST(root.right,val);
-    }   
+        search(root, val);
+        return ans;
+    }
+
+    public void search(TreeNode root, int val) {
+
+        if (root == null) return;
+
+        if (root.val == val) {
+            ans = root;
+            return;
+        }
+
+        if (val < root.val) {
+            search(root.left, val);
+        } else {
+            search(root.right, val);
+        }
+    }
 }
