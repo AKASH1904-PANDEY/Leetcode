@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0973-k-closest-points-to-origin) |
