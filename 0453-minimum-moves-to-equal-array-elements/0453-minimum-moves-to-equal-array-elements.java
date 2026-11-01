@@ -6,10 +6,10 @@ class Solution {
             min = x;
            }
        } 
-       long moves =0;
+       int moves =0;
        for(int x : nums){
         moves += x-min;
        }
-       return (int)moves;
+       return moves;
     }
 }
