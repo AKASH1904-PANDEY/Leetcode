@@ -9,7 +9,7 @@ class Solution {
        while(j<arr2.length && arr2[j]<arr1[i]-d){
         j++;
        } 
-       if(j==arr2.length || arr2[j]>arr1[i]+d){
+       if(j==arr2.length  || arr2[j]>arr1[i]+d){
         count++;
        }
        i++;
