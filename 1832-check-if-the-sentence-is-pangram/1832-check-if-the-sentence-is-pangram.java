@@ -1,9 +1,18 @@
+
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashMap<Character,Integer> map = new HashMap<>();
-        for(char ch : sentence.toCharArray()){
-            map.put(ch,map.getOrDefault(ch,0)+1);
+        boolean[] seen = new boolean[26];
+
+        for (char ch : sentence.toCharArray()) {
+            seen[ch - 'a'] = true;
         }
-         return map.size() == 26;
+
+        for (boolean present : seen) {
+            if (!present) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
