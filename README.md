@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
