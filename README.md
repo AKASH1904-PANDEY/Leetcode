@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0509-fibonacci-number) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
