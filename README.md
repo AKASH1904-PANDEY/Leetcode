@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
