@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2460-apply-operations-to-an-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AKASH1904-PANDEY/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
